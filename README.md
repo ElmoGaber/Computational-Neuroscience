@@ -1,2 +1,0 @@
-# Computational-Neuroscience-
-Assignment 
